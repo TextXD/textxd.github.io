@@ -54,7 +54,7 @@ image:
 | 11:10-11:30   | Geoff Bacon -- Sentence embeddings -- UC Berkelely (Linguistics)|
 | 11:30-11:50   | Nick Adams -- Introducing Public Editor -- Goodly Labs|
 | 11:50-12:10   | Tanya Roosta & Emmanuel Vallod -- Title -- SumUp Analytics|
-| 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> [Questions](https://www.sli.do/) (#TextXD) |
+| 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
 | **1:15-1:45**    | **Keynote Laurent El Ghaoui -- Text Analytics: A Guided Tour -- EECS & BAIR**|
 | 1:45-2:05    |  Milena Gianfrancesco & Suzanne Tamang -- Using text mining methods to detect a clinical infection -- UCSF & Stanford |
 | 2:05-2:25    |  Jae Ho Sohn -- Title -- UCSF (Radiology) |
@@ -85,7 +85,7 @@ image:
 | 11:10-11:30   | Manoj Tiwari -- Recommendation systems -- Google |
 | 11:30-11:50   | AJ Alvero -- Sociocultural Considerations of the College Admissions Essay -- Stanford (Education) |
 | 11:50-12:10   | Ethan Wilcox -- Title -- Harvard|
-| 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> [Questions](https://www.sli.do/) (#TextXD) |
+| 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
 | **1:15-1:45**    | **Keynote Niek Veldhuis -- Sumerian Word Embeddings -- Near Eastern Studies**|
 | 1:45-2:05    |  Adam Anderson -- Title -- Near Eastern Studies |
 | 2:05-2:25    |  TBA |
