@@ -22,10 +22,10 @@ image:
 |:------------|:--------|
 | 1:00-2:00   | Intro to Text Processing |
 |----
-| 2:00-3:00  | Intro Topic Modeling |
+| 2:00-3:00  | Intro to Web Scraping |
 | 3:00-3:15  | <span class="badge warning">Break</span> |
 |----
-| 3:15-4:15  |  Intro to Web Scraping |
+| 3:15-4:15  |  Intro to Neural-Net Word Embeddings |
 |----
 | 4:15-5:15 |  Intro to Supervised Machine Learning  |
 | 5:15-5:30 | Discussion|
