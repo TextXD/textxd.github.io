@@ -1,0 +1,13 @@
+# Footer navigation links
+
+- title: Home
+  url: /
+
+- title: Past Events
+  url: /workshops/
+
+- title: About
+  url: /about/
+
+- title: Team
+  url: /team/

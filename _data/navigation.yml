@@ -1,0 +1,22 @@
+# Site navigation links
+
+- title: "TextXD 2018"
+  url: /textxd2018/
+  excerpt: Information and registration for this year's workshop
+  image:
+
+- title: "About"
+  url: /about/
+  excerpt: 
+  image:
+
+- title: "Past Events"
+  url: /workshops/
+  excerpt: Past Events
+  image:
+
+- title: "Organizing Team"
+  url: /team/
+  excerpt: Meet the TextXD 2018 Organizing Team
+  image:
+

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.1.6">Jekyll</generator><link href="/atom.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2018-11-14T20:35:56-08:00</updated><id>/</id><title>TextXD</title><subtitle>This is an awesome site for Text Analysis Across Domains.</subtitle><entry><title>TextXD Workshop 2017</title><link href="/workshops/workshop2017/" rel="alternate" type="text/html" title="TextXD Workshop 2017" /><published>2017-12-01T00:00:00-08:00</published><updated>2017-12-01T00:00:00-08:00</updated><id>/workshops/workshop2017</id><content type="html" xml:base="/workshops/workshop2017/">&lt;p&gt;At the inaugural TextXD event, held at UC Berkeley’s Institute for Data Science (BIDS), we gathered about 60 researchers from several institutions representing expertise in text analysis.  The common bond between all of these researchers coming from different domains is that they work with texts as a primary source of data. Throughout the event, we learned from one another while strengthening ties across disciplinary boundaries and began the development of collaborations that we hope will have a lasting impact on the community.&lt;/p&gt;
+
+&lt;p&gt;The TextXD event included different emphases each day:&lt;/p&gt;
+
+&lt;nav class=&quot;toc&quot;&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#prexd-text-analysis-workshop&quot; id=&quot;markdown-toc-prexd-text-analysis-workshop&quot;&gt;preXD Text Analysis Workshop&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#text-analysis-across-domains-fall-2017-conference&quot; id=&quot;markdown-toc-text-analysis-across-domains-fall-2017-conference&quot;&gt;Text Analysis Across Domains Fall 2017 Conference&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#agenda&quot; id=&quot;markdown-toc-agenda&quot;&gt;AGENDA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/nav&gt;
+
+&lt;h2 id=&quot;prexd-text-analysis-workshop&quot;&gt;preXD Text Analysis Workshop&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Date: November 29, 2017, 1:00 to 6:00 PM&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;Location: Academic Innovation Studio (Dwinelle 117, Level D), UC Berkeley&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This year, the TextXD Conference started with a preXD Workshop on November 29 from 1:00-6:00 PM, in order to give a quick introduction to text analysis in Python using Jupyter Notebooks. This session was specifically designed to bring people to the text-analysis-starting-line so that everyone would be ready for the make sessions over the next two days. No prior text analysis experience was needed to attend the preXD. Those without Python familiarity were invited to check out some introductory materials from UC Berkeley’s D-Lab &lt;a href=&quot;https://github.com/dlab-berkeley/python-fundamentals&quot;&gt;&lt;strong&gt;here&lt;/strong&gt;&lt;/a&gt; - click the “launch binder” black and red badge to run it all in your browser.&lt;/p&gt;
+
+&lt;h2 id=&quot;text-analysis-across-domains-fall-2017-conference&quot;&gt;Text Analysis Across Domains Fall 2017 Conference&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Dates: November 30 and December 1, 2017, 10:00 AM to 4:30 PM&lt;/strong&gt; &lt;br /&gt;
+&lt;strong&gt;Location: 190 Doe Library, UC Berkeley&lt;/strong&gt; &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;This semester’s &lt;a href=&quot;https://bids.berkeley.edu/research/textxd&quot;&gt;&lt;strong&gt;TextXD&lt;/strong&gt;&lt;/a&gt; event was the biggest TextXD event to date. With so much going on in the world of natural language processing, TextXD opened to researchers beyond the UC Berkeley campus. The agenda consisted of short morning talks on new tools, methods, software, and data (see videos in the Agenda, listed below). Speakers came from our own campus as well as UC San Francisco, UC San Diego, UC Santa Barbara, Princeton, and Drexel. Afternoon “make” sessions were also introduced this year so that participants could roll up their sleeves and spend time working together to craft solutions to our shared problems or to investigate research questions of shared interest. The text data used in the “make” sessions included newspaper articles, twitter feeds, emails, congressional hearings, and journal article abstracts.&lt;/p&gt;
+
+&lt;h2 id=&quot;agenda&quot;&gt;AGENDA&lt;/h2&gt;
+
+&lt;p&gt;&lt;u&gt;&lt;strong&gt;THURSDAY, NOVEMBER 30&lt;/strong&gt;&lt;/u&gt; at BIDS (190 Doe Library)&lt;br /&gt;
+09:30-10:00 — &lt;strong&gt;Breakfast&lt;/strong&gt; &lt;br /&gt;
+10:00-12:30 — &lt;strong&gt;Talks&lt;/strong&gt; &lt;br /&gt;
+     - 10:00-10:10 — Nick Adams (BIDS): Welcome&lt;br /&gt;
+     - 10:10-10:35 — John Mohr (UCSB): &lt;strong&gt;&lt;a href=&quot;https://youtu.be/0ya_uyrd7wI&quot; target=&quot;_blank&quot;&gt;The Frontiers of Social Scientific Text Analysis&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+     - 10:35-10:45 — Cody Hennesy (UCB Library): &lt;strong&gt;&lt;a href=&quot;https://youtu.be/PCzQZpOzEXA&quot; target=&quot;_blank&quot;&gt;Text Analysis on 14 Million Digital Library Books&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+     - 10:45-11:15 — Julia Silge (StackOverflow): &lt;a href=&quot;https://youtu.be/ifdEi4RC5GA&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Text Mining with Tidy Data Principles and Count-based Methods&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+     - 11:15-11:30 — Pramit Choudhary (DataScience): &lt;a href=&quot;https://youtu.be/p-WJ_OlcTB8&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Explainable NLP Algorithms: Understanding Word Relevance in Text Datasets&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+     - 11:30-11:40 — Elena Glassman (BIDS): &lt;strong&gt;&lt;a href=&quot;https://youtu.be/qwW689nEKKA&quot; target=&quot;_blank&quot;&gt;Wavelets for Text&lt;/a&gt;&lt;/strong&gt;&lt;br /&gt;
+     - 11:40-12:00 — Jamie Murdoch(UCB EECS): &lt;a href=&quot;https://youtu.be/GjpGAyJenCM&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Beyond Word Importance: Contextual Decomposition for Interpreting LSTMs&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+     - 12:00-12:05 — Devin Cornell (UCSB): &lt;a href=&quot;https://youtu.be/0TcKFLSFLOk&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Word Embedding and Semantic Analysis of News Data&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+     - 12:05-12:25 — &lt;a href=&quot;https://youtu.be/lwXcH_yfrXQ&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Make Session Previews&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+     - 12:25-12:30 — Wrap up and send to lunch&lt;br /&gt;
+12:30-13:30 — &lt;strong&gt;Lunch&lt;/strong&gt;&lt;br /&gt;
+13:00-13:30 — &lt;strong&gt;Lunch Chat Panel&lt;/strong&gt; — &lt;a href=&quot;https://youtu.be/kuocqDiiBk8&quot; target=&quot;_blank&quot;&gt;&lt;em&gt;&lt;strong&gt;The Frontier of NLP (at Berkeley and Beyond)&lt;/strong&gt;&lt;/em&gt;&lt;/a&gt;&lt;br /&gt;
+13:30-17:00 — &lt;strong&gt;Make Session&lt;/strong&gt;&lt;br /&gt;
+     - 1:30-1:40 — Elena Glassman (UCB): Welcome and Process Intro&lt;br /&gt;
+     - 1:40-3:30 — Make Sessions&lt;br /&gt;
+     - 3:30-3:45 — Tea break&lt;br /&gt;
+     - 3:45-4:40 — Keep making!&lt;br /&gt;
+     - 4:40- 5:00 — Review results&lt;br /&gt;
+17:00-19:00 - &lt;strong&gt;Happy Hour&lt;/strong&gt; — Tap Haus (2516 Durant Ave)&lt;/p&gt;
+&lt;p&gt;
+&lt;u&gt;&lt;strong&gt;FRIDAY, DECEMBER 1&lt;/strong&gt;&lt;/u&gt; at BIDS (190 Doe Library)&lt;br /&gt;
+09:30-10:00 — &lt;strong&gt;Breakfast&lt;/strong&gt;&lt;br /&gt;
+10:00-12:30 — &lt;strong&gt;Talks&lt;/strong&gt; &lt;br /&gt;
+     - 10:00-10:05 — Alex Paxton (BIDS): Welcome Back!&lt;br /&gt;
+     - 10:05-10:20 — Claudia von Vacano (D-Lab): &lt;a href=&quot;https://youtu.be/7ctLcg_NoRs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Scalable Detection of Online Hate Speech&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+     - 10:20-10:50 — Jake Ryland Williams (Drexel): &lt;a href=&quot;https://youtu.be/iO8Jeqf55_U&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Minimal Semantic Units in Text Analysis&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+     - 10:50-11:05 — Han Zhang (Princeton): &lt;a href=&quot;https://youtu.be/EqQum81wW1E&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Uncovering Authoritarian Rule: Identifying Collective Action with Social Media Data&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+     - 11:05-11:35 — Rex Douglass (UCSD): &lt;a href=&quot;https://youtu.be/BsNwvqnyQBU&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Georeferencing of Events from Text&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+     - 11:35-11:55 — Nick Adams (BIDS): &lt;a href=&quot;https://youtu.be/DZzxg7llD8Q&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;TextThresher: Qualitative Text Analysis at a Quantitative Scale&lt;/strong&gt;&lt;/a&gt; (o&lt;em&gt;riginally scheduled: Aditi Muralidharan (Google): “WordSeer for Text Exploration”&lt;/em&gt;)&lt;br /&gt;
+     - 11:55-12:05 — Oksana Gologorskaya (UCSF): &lt;a href=&quot;https://youtu.be/0jBlwMwtBRQ&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Text Analysis in Biomedical Applications at UCSF&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+     - 12:05-12:20 — Miriam Petruck (ICSI): &lt;a href=&quot;https://youtu.be/JBSH6IkrBj0&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;The FrameNet Database -- FrameNet: The Tip of the Iceberg&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+     - 12:20-12:35 — Meredith Lee (West Big Data Innovation Hub / UC Berkeley): &lt;a href=&quot;https://youtu.be/cVEMfPzGuVs&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Collaborating with the Big Data Innovation Hubs&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+12:35-13:30 — &lt;strong&gt;Lunch&lt;/strong&gt;&lt;br /&gt;
+13:00-13:30 — &lt;strong&gt;Lunch Chat Panel&lt;/strong&gt; — &lt;a href=&quot;https://youtu.be/fKbQeS4VmvY&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;Humans In the Loop: The Role of Humans in Text Analysis&lt;/strong&gt;&lt;/a&gt;&lt;br /&gt;
+13:30-17:00 — &lt;strong&gt;Make Session &lt;/strong&gt;&lt;br /&gt;
+     - 1:30-3:00 — Making&lt;br /&gt;
+     - 3:30-3:45 — Tea break&lt;br /&gt;
+     - 3:45-4:30 — Make more!&lt;br /&gt;
+     - 4:30-5:00 — Reports &amp;amp; wrap up - &lt;strong&gt;&lt;a href=&quot;https://youtu.be/dk5SXSFUi1A&quot; target=&quot;_blank&quot;&gt;Conference Closing and Remarks from Participants&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Follow us on Twitter &lt;span style=&quot;font-weight: 600;&quot;&gt;#TextXD17 &lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://bids.github.io/TextXD/&quot; class=&quot;btn&quot;&gt; TextXD 2017 Website &lt;/a&gt;&lt;/p&gt;</content><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{&quot;feature&quot;=&gt;nil, &quot;teaser&quot;=&gt;&quot;logo_BIDS_2.png&quot;}" /></entry></feed>
