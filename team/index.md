@@ -15,7 +15,7 @@ Meet the TextXD 2018 Organizing Team – an interdisciplinary mix of thinkers, m
 
 <div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/ChrisKennedy.png" style="width: 150px;"/>
-  <h2 class="post-title center-block"><a href="https://bids.berkeley.edu/people/chris-kennedy"> Chris Kennedy</a></h2>
+  <h2 class="post-title center-block"><a href="https://bids.berkeley.edu/people/chris-kennedy">Chris Kennedy</a></h2>
   <p class="post-excerpt">Biostatistics, UC Berkeley</p>
 </div><!-- /.tile -->
 
@@ -40,7 +40,7 @@ Meet the TextXD 2018 Organizing Team – an interdisciplinary mix of thinkers, m
 <div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/GeoffBacon.png" style="width: 150px;"/>
   <h2 class="post-title center-block"><a href="https://geoffbacon.github.io/">Geoff Bacon</a></h2>
-  <p class="post-excerpt">Computational linguist, UC Berkeley</p>
+  <p class="post-excerpt">Linguistics, UC Berkeley</p>
 </div><!-- /.tile -->
 
 <div class="tile">
