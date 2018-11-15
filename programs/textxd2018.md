@@ -51,7 +51,7 @@ image:
 |----
 | 10:50-11:10  | Abigail See -- Controlling text generation for a better chatbot -- Stanford (NLP)|
 |----
-| 11:10-11:30   | AJ Alvero -- Sociocultural Considerations of the College Admissions Essay -- Stanford (Education)|
+| 11:10-11:30   | Geoff Bacon -- Sentence embeddings -- UC Berkelely (Linguistics)|
 | 11:30-11:50   | Nick Adams -- Introducing Public Editor -- Goodly Labs|
 | 11:50-12:10   | Tanya Roosta & Emmanuel Vallod -- Title -- SumUp Analytics|
 | 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> [Questions](https://www.sli.do/) (#TextXD) |
@@ -83,7 +83,7 @@ image:
 | 10:50-11:10  | Caroline Le Pennec-Caldichoury -- Electoral competition and campaign messages in French legislative elections (1958-1993) -- Economics |
 |----
 | 11:10-11:30   | Manoj Tiwari -- Recommendation systems -- Google |
-| 11:30-11:50   | Geoff Bacon -- Sentence embeddings -- UC Berkelely (Linguistics)|
+| 11:30-11:50   | AJ Alvero -- Sociocultural Considerations of the College Admissions Essay -- Stanford (Education) |
 | 11:50-12:10   | Ethan Wilcox -- Title -- Harvard|
 | 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> <span class="badge success">Panel over lunch</span> [Questions](https://www.sli.do/) (#TextXD) |
 | **1:15-1:45**    | **Keynote Niek Veldhuis -- Sumerian Word Embeddings -- Near Eastern Studies**|
