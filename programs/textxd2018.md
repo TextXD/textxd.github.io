@@ -84,7 +84,7 @@ image:
 |----
 | 11:10-11:30   | Manoj Tiwari -- Recommendation systems -- Google |
 | 11:30-11:50   | AJ Alvero -- Sociocultural Considerations of the College Admissions Essay -- Stanford (Education) |
-| 11:50-12:10   | Ethan Wilcox -- Title -- Harvard|
+| 11:50-12:10   | Rob Voigt -- Stanford (NLP) |
 | 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
 | **1:15-1:45**    | **Keynote Niek Veldhuis -- Sumerian Word Embeddings -- Near Eastern Studies**|
 | 1:45-2:05    |  Adam Anderson -- Title -- Near Eastern Studies |
