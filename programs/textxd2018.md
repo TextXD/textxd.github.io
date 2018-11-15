@@ -51,7 +51,7 @@ image:
 |----
 | 10:50-11:10  | Abigail See -- Controlling text generation for a better chatbot -- Stanford (NLP)|
 |----
-| 11:10-11:30   | Geoff Bacon -- Probing sentence embeddings for structure-dependent tense -- UC Berkelely (Linguistics)|
+| 11:10-11:30   | Geoff Bacon -- Probing sentence embeddings for structure-dependent tense -- UC Berkeley (Linguistics)|
 | 11:30-11:50   | Nick Adams -- Introducing Public Editor -- Goodly Labs|
 | 11:50-12:10   | Tanya Roosta & Emmanuel Vallod -- SumUp Analytics|
 | 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
