@@ -56,8 +56,8 @@ image:
 | 11:50-12:10   | Tanya Roosta & Emmanuel Vallod -- SumUp Analytics|
 | 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
 | **1:15-1:45**    | **Keynote Laurent El Ghaoui -- Text Analytics: A Guided Tour -- EECS & BAIR**|
-| 1:45-2:05    |  Milena Gianfrancesco & Suzanne Tamang -- Using text mining methods to detect a clinical infection -- UCSF & Stanford |
-| 2:05-2:25    |  Jae Ho Sohn --  UCSF (Radiology) |
+| 1:45-2:05    |  Adam Anderson --  UC Berkeley (Near Eastern Studies)  |
+| 2:05-2:25    | TBA  |
 | 2:25-2:45    | <span class="badge warning">Break</span> |
 | 2:45-5:20    |  Collaborative work session --- <a href="https://public.etherpad-mozilla.org/p/TextXD2018"> Click for Hack Proposals</a> |
 | 5:20- 5:30   |  Discussion  | 
@@ -87,8 +87,8 @@ image:
 | 11:50-12:10   | Rob Voigt -- Stanford (NLP) |
 | 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
 | **1:15-1:45**    | **Keynote Niek Veldhuis -- Sumerian Word Embeddings -- UC Berkeley (Near Eastern Studies)** |
-| 1:45-2:05    |  Adam Anderson --  UC Berkeley (Near Eastern Studies) |
-| 2:05-2:25    |  TBA |
+| 1:45-2:05    |  Milena Gianfrancesco & Suzanne Tamang -- Using text mining methods to detect a clinical infection -- UCSF & Stanford |
+| 2:05-2:25    |  Jae Ho Sohn --  UCSF (Radiology) |
 | 2:25-2:45    | <span class="badge warning">Break</span> |
 | 2:45-5:20    |  Collaborative work session --- <a href="https://public.etherpad-mozilla.org/p/TextXD2018"> Click for Hack Proposals</a> |
 | 5:20- 5:30   | Team Demos & Closing Remarks  | 
