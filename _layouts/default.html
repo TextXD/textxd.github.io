@@ -27,6 +27,9 @@
       <script src="{{ site.url }}/js/vendor/respond.min.js"></script>
     <![endif]-->
 
+    {% if site.google_analytics and jekyll.environment == 'production' %}
+{% include analytics.html %}
+{% endif %}
   </head>
 
   <body id="js-body">
