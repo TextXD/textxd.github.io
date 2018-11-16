@@ -38,7 +38,8 @@ owner:
 #    ad-client:
 #    ad-slot:
 
-
+# Google Analytics
+google_analytics: UA-129172079-1
 
 
 #include:
