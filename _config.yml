@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: "TextXD"
-description: "This is an awesome site for Text Analysis Across Domains."
+title: "TextXD: Text analysis across domains"
+description: "A project of the Berkeley Institute for Data Science (BIDS)"
 logo: # 120x120 px default image used for Twitter summary card
 teaser: # 400x250 px default teaser image used in image archive grid
 locale: en
