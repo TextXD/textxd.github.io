@@ -53,9 +53,9 @@ image:
 |----
 | 11:10-11:30   | Geoff Bacon -- Probing sentence embeddings for structure-dependent tense -- UC Berkeley (Linguistics)|
 | 11:30-11:50   | Nick Adams -- Introducing Public Editor -- Goodly Labs|
-| 11:50-12:10   | Tanya Roosta & Emmanuel Vallod -- SumUp Analytics|
+| 11:50-12:10   | Rob Voigt -- Stanford (NLP) |
 | 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
-| **1:15-1:45**    | **Keynote Laurent El Ghaoui -- Text Analytics: A Guided Tour -- EECS & BAIR**|
+| **1:15-1:45**    | **Keynote Niek Veldhuis -- Sumerian Word Embeddings -- UC Berkeley (Near Eastern Studies)** |
 | 1:45-2:05    |  Adam Anderson --  UC Berkeley (Near Eastern Studies)  |
 | 2:05-2:25    | TBA  |
 | 2:25-2:45    | <span class="badge warning">Break</span> |
@@ -84,9 +84,9 @@ image:
 |----
 | 11:10-11:30   | Manoj Tiwari -- Recommendation systems -- Google |
 | 11:30-11:50   | AJ Alvero -- Sociocultural Considerations of the College Admissions Essay -- Stanford (Education) |
-| 11:50-12:10   | Rob Voigt -- Stanford (NLP) |
+| 11:50-12:10   | Tanya Roosta & Emmanuel Vallod -- SumUp Analytics |
 | 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
-| **1:15-1:45**    | **Keynote Niek Veldhuis -- Sumerian Word Embeddings -- UC Berkeley (Near Eastern Studies)** |
+| **1:15-1:45**    | **Keynote Laurent El Ghaoui -- Text Analytics: A Guided Tour -- EECS & BAIR** |
 | 1:45-2:05    |  Milena Gianfrancesco & Suzanne Tamang -- Using text mining methods to detect a clinical infection -- UCSF & Stanford |
 | 2:05-2:25    |  Jae Ho Sohn --  UCSF (Radiology) |
 | 2:25-2:45    | <span class="badge warning">Break</span> |
