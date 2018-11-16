@@ -1,6 +1,6 @@
 # TextXD.org
 
-This Jekyll site will be upgraded to [TextXD.org](http://www.textxd.org/) but is currently at [textxd.github.io](https://textxd.github.io)
+This Jekyll site is published at [TextXD.org](http://www.textxd.org/).
 
 (*work in progress*)
 
