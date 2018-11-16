@@ -10,6 +10,9 @@
 			<li><a href="{{ domain }}{{ link.url }}" {% if link.url contains 'http' %}target="_blank"{% endif %}>{{ link.title }}</a></li>
 		{% endfor %}
 		</ul>
+		<figure>
+			<img src="{{ site.url }}/images/logo_all.png" style="height:120px;" align="right"/>
+		</figure>
 	</nav><!-- /.bottom-menu -->
-	<p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.title }}</a> by Maryam Vareth. <a href="https://github.com/mmistakes/skinny-bones-jekyll">Theme by @mmistakes.</a></p>
+	<p class="copyright">&#169; {{ site.time | date: '%Y' }} <a href="{{ site.url }}">{{ site.title }}</a> by Maryam Vareth. <a href="https://github.com/mmistakes/skinny-bones-jekyll">Theme by @mmistakes. </a></p>
 </footer>
