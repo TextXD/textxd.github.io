@@ -76,7 +76,7 @@ image:
 |----
 | 9:30-9:50 | Devin Cornell -- The Evolution of Political Discourse in the Colombian Party Centro Democrático -- UCSB (Sociology) |
 |----
-| 9:50-10:10 | Alina Arseniev-Koehler -- UCLA (Sociology) |
+| 9:50-10:10 | Alina Arseniev-Koehler -- Gender, Morality, Social Class, and other Cultural Dimensions in Word Embeddings --UCLA (Sociology) |
 | 10:10-10:30 | Jaren Haber -- Inductive dictionary creation with word embedding models -- Sociology |
 | 10:30-10:50 |  <span class="badge warning">Break</span>   |
 |----
