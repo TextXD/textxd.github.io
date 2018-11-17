@@ -49,7 +49,7 @@ image:
 | 10:10-10:30 | Deborah Sunter --  Tufts (Mechanical Engineering) |
 | 10:30-10:50 |  <span class="badge warning">Break</span>   |
 |----
-| 10:50-11:10  | Abigail See -- Controlling text generation for a better chatbot -- Stanford (NLP)|
+| 10:50-11:10  | Caroline Le Pennec-Caldichoury -- Electoral competition and campaign messages in French legislative elections (1958-1993) -- Economics |
 |----
 | 11:10-11:30   | Geoff Bacon -- Probing sentence embeddings for structure-dependent tense -- UC Berkeley (Linguistics)|
 | 11:30-11:50   | Nick Adams -- Introducing Public Editor -- Goodly Labs|
@@ -80,7 +80,7 @@ image:
 | 10:10-10:30 | Jaren Haber -- Inductive dictionary creation with word embedding models -- Sociology |
 | 10:30-10:50 |  <span class="badge warning">Break</span>   |
 |----
-| 10:50-11:10  | Caroline Le Pennec-Caldichoury -- Electoral competition and campaign messages in French legislative elections (1958-1993) -- Economics |
+| 10:50-11:10  | Abigail See -- Controlling text generation for a better chatbot -- Stanford (NLP) |
 |----
 | 11:10-11:30   | Manoj Tiwari -- Recommendation systems -- Google |
 | 11:30-11:50   | AJ Alvero -- Sociocultural Considerations of the College Admissions Essay -- Stanford (Education) |
