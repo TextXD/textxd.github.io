@@ -88,7 +88,7 @@ image:
 | 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
 | **1:15-1:45**    | **Keynote Laurent El Ghaoui -- Text Analytics: A Guided Tour -- EECS & BAIR** |
 | 1:45-2:05    |  Milena Gianfrancesco & Suzanne Tamang -- Using text mining methods to detect a clinical infection -- UCSF & Stanford |
-| 2:05-2:25    |  Jae Ho Sohn --  UCSF (Radiology) |
+| 2:05-2:25    |  Jae Ho Sohn -- Natural Language Processing in Radiology: Why, What, and How? -- UCSF (Radiology) |
 | 2:25-2:45    | <span class="badge warning">Break</span> |
 | 2:45-5:20    |  Collaborative work session --- <a href="https://public.etherpad-mozilla.org/p/TextXD2018"> Click for Hack Proposals</a> |
 | 5:20- 5:30   | Team Demos & Closing Remarks  | 
