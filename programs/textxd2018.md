@@ -43,7 +43,7 @@ image:
 | 9:00-9:10   | Welcome (Chris Kennedy & Maryam Vareth) |
 | 9:10-9:30   | Rochelle Terman --  U. Chicago (Political Science) |
 |----
-| 9:30-9:50 | Chris Hench -- Alexa neural language architecture -- Amazon |
+| 9:30-9:50 | Adam Anderson --  UC Berkeley (Near Eastern Studies) |
 |----
 | 9:50-10:10 | Alex Paxton --  U. Connecticut (Psychology) |
 | 10:10-10:30 | Deborah Sunter --  Tufts (Mechanical Engineering) |
@@ -56,7 +56,7 @@ image:
 | 11:50-12:10   | Rob Voigt -- Stanford (NLP) |
 | 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
 | **1:15-1:45**    | **Keynote Niek Veldhuis -- Sumerian Word Embeddings -- UC Berkeley (Near Eastern Studies)** |
-| 1:45-2:05    |  Adam Anderson --  UC Berkeley (Near Eastern Studies)  |
+| 1:45-2:05    | Chris Hench -- Alexa neural language architecture -- Amazon  |
 | 2:05-2:25    | Russell Lee-Goldman -- Google  |
 | 2:25-2:45    | <span class="badge warning">Break</span> |
 | 2:45-5:20    |  Collaborative work session --- <a href="https://public.etherpad-mozilla.org/p/TextXD2018"> Click for Hack Proposals</a> |
