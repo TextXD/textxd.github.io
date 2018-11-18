@@ -57,7 +57,7 @@ image:
 | 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
 | **1:15-1:45**    | **Keynote Niek Veldhuis -- Sumerian Word Embeddings -- UC Berkeley (Near Eastern Studies)** |
 | 1:45-2:05    | Russell Lee-Goldman -- Google  |
-| 2:05-2:25    | Chris Hench -- An Overview of the Alexa Architecture -- Amazon Alexa |
+| 2:05-2:25    | Christopher Hench -- An Overview of the Alexa Architecture -- Amazon Alexa |
 | 2:25-2:45    | <span class="badge warning">Break</span> |
 | 2:45-5:20    |  Collaborative work session --- <a href="https://public.etherpad-mozilla.org/p/TextXD2018"> Click for Hack Proposals</a> |
 | 5:20- 5:30   |  Discussion  | 
