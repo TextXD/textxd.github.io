@@ -45,8 +45,7 @@ image:
 |----
 | 9:30-9:50 | Adam Anderson --  UC Berkeley (Near Eastern Studies) |
 |----
-| 9:50-10:10 | Alex Paxton -- The octo-source community: Exploring open-source software community health on GitHub -- 
-U. Connecticut (Psychological Sciences) |
+| 9:50-10:10 | Alex Paxton -- The octo-source community: Exploring open-source software community health on GitHub -- U. Connecticut (Psychological Sciences) |
 | 10:10-10:30 | Deborah Sunter --  Tufts (Mechanical Engineering) |
 | 10:30-10:50 |  <span class="badge warning">Break</span>   |
 |----
