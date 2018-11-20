@@ -52,8 +52,8 @@ image:
 | 10:50-11:10  | Caroline Le Pennec-Caldichoury -- Electoral competition and campaign messages in French legislative elections -- UC Berkeley (Economics) |
 |----
 | 11:10-11:30   | Geoff Bacon -- Probing sentence embeddings for structure-dependent tense -- UC Berkeley (Linguistics)|
-| 11:30-11:50   | Nick Adams -- Introducing Public Editor -- Goodly Labs|
-| 11:50-12:10   | Rob Voigt -- Stanford (NLP) |
+| 11:30-11:50   | Nick Adams -- Introducing Public Editor -- Goodly Labs |
+| 11:50-12:10   | Jaren Haber -- Inductive dictionary creation with word embedding models -- UC Berkeley (Sociology) |
 | 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
 | **1:15-1:45**    | **Keynote Niek Veldhuis -- Sumerian Word Embeddings -- UC Berkeley (Near Eastern Studies)** |
 | 1:45-2:05    | Manoj Tiwari -- Recommendation systems -- Google  |
@@ -77,7 +77,7 @@ image:
 | 9:30-9:50 | Devin Cornell -- The Evolution of Political Discourse in the Colombian Party Centro Democrático -- UCSB (Sociology) |
 |----
 | 9:50-10:10 | Alina Arseniev-Koehler -- Gender, Morality, Social Class, and other Cultural Dimensions in Word Embeddings --UCLA (Sociology) |
-| 10:10-10:30 | Jaren Haber -- Inductive dictionary creation with word embedding models -- Sociology |
+| 10:10-10:30 |  Rob Voigt -- Stanford (NLP) |
 | 10:30-10:50 |  <span class="badge warning">Break</span>   |
 |----
 | 10:50-11:10  | Abigail See -- Controlling text generation for a better chatbot -- Stanford (NLP) |
