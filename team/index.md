@@ -50,15 +50,15 @@ Meet the TextXD 2018 Organizing Team – an interdisciplinary mix of thinkers, m
 </div><!-- /.tile -->
 
 <div class="tile">
-  <img class='center-block' src="{{ site.baseurl }}/images/man.png" style="width: 150px;"/>
-  <h2 class="post-title center-block"> Adan Lavertu </h2>
-  <p class="post-excerpt">Biomedical Informatics, Stanford</p>
-</div><!-- /.tile -->
-
-<div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/JonathanDugan.png" style="width: 150px;"/>
   <h2 class="post-title center-block"><a href="https://bids.berkeley.edu/people/jonathan-dugan">Jonathan Dugan, PhD </a></h2>
   <p class="post-excerpt">Berkeley Institute for Data Science, UC Berkeley</p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <img class='center-block' src="{{ site.baseurl }}/images/man.png" style="width: 150px;"/>
+  <h2 class="post-title center-block"> Adam Lavertu </h2>
+  <p class="post-excerpt">Biomedical Informatics, Stanford</p>
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
