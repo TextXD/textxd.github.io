@@ -41,7 +41,7 @@ image:
 |----
 | 8:45-9:00   | Introduction (Aaron Culich et al.) |
 | 9:00-9:10   | Welcome (Chris Kennedy & Maryam Vareth) |
-| 9:10-9:30   | Rochelle Terman --  U. Chicago (Political Science) |
+| 9:10-9:30   | Rochelle Terman -- The Outrage Machine: Human Rights Shaming from Media, Governments, and NGOs -- U. Chicago (Political Science) |
 |----
 | 9:30-9:50 | Adam Anderson --  UC Berkeley (Near Eastern Studies) |
 |----
