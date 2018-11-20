@@ -20,15 +20,15 @@ image:
 
 | Time        | Task    |
 |:------------|:--------|
-| 1:00-2:00   | Intro to Text Processing |
+| 1:00-2:00   | Text as Data - An introduction (Caroline Le Pennec-Caldichoury) |
 |----
-| 2:00-3:00  | Intro to Web Scraping |
+| 2:00-3:00  | Intro to Web Scraping (Geoff Bacon) |
 | 3:00-3:15  | <span class="badge warning">Break</span> |
 |----
-| 3:15-4:15  |  Intro to Neural-Net Word Embeddings |
+| 3:15-4:15  |  Intro to Neural-Net Word Embeddings (Jaren Haber) |
 |----
-| 4:15-5:15 |  Intro to Supervised Machine Learning  |
-| 5:15-5:30 | Discussion|
+| 4:15-5:15 |  Intro to Supervised Machine Learning  (Chris Kennedy) |
+| 5:15-5:30 | Discussion |
 
 
 ## Day 2: Thu, Dec 6th (AM: Talks, PM: Create)
@@ -49,7 +49,7 @@ image:
 | 10:10-10:30 | Deborah Sunter --  Tufts (Mechanical Engineering) |
 | 10:30-10:50 |  <span class="badge warning">Break</span>   |
 |----
-| 10:50-11:10  | Caroline Le Pennec-Caldichoury -- Electoral competition and campaign messages in French legislative elections (1958-1993) -- Economics |
+| 10:50-11:10  | Caroline Le Pennec-Caldichoury -- Electoral competition and campaign messages in French legislative elections -- UC Berkeley (Economics) |
 |----
 | 11:10-11:30   | Geoff Bacon -- Probing sentence embeddings for structure-dependent tense -- UC Berkeley (Linguistics)|
 | 11:30-11:50   | Nick Adams -- Introducing Public Editor -- Goodly Labs|
