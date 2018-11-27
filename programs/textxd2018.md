@@ -77,7 +77,7 @@ image:
 | 9:30-9:50 | Devin Cornell -- The Evolution of Political Discourse in the Colombian Party Centro Democrático -- UCSB (Sociology) |
 |----
 | 9:50-10:10 | Alina Arseniev-Koehler -- Gender, Morality, Social Class, and other Cultural Dimensions in Word Embeddings --UCLA (Sociology) |
-| 10:10-10:30 |  Rob Voigt -- Stanford (NLP) |
+| 10:10-10:30 |  Rob Voigt -- Computational Linguistics for Police-Community Interaction -- Stanford (NLP) |
 | 10:30-10:50 |  <span class="badge warning">Break</span>   |
 |----
 | 10:50-11:10  | Abigail See -- Controlling text generation for a better chatbot -- Stanford (NLP) |
