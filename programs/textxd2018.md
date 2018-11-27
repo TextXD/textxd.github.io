@@ -46,7 +46,7 @@ image:
 | 9:30-9:50 | Adam Anderson --  UC Berkeley (Near Eastern Studies) |
 |----
 | 9:50-10:10 | Alex Paxton -- The octo-source community: Exploring open-source software community health on GitHub -- U. Connecticut (Psychological Sciences) |
-| 10:10-10:30 | Deborah Sunter --  Tufts (Mechanical Engineering) |
+| 10:10-10:30 | Deborah Sunter --  Text Analysis to Understand International Variations in Interpreting Sustainable Development -- Tufts (Mechanical Engineering) |
 | 10:30-10:50 |  <span class="badge warning">Break</span>   |
 |----
 | 10:50-11:10  | Caroline Le Pennec-Caldichoury -- Electoral competition and campaign messages in French legislative elections -- UC Berkeley (Economics) |
@@ -56,7 +56,7 @@ image:
 | 11:50-12:10   | Jaren Haber -- Inductive dictionary creation with word embedding models -- UC Berkeley (Sociology) |
 | 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
 | **1:15-1:45**    | **Keynote Niek Veldhuis -- Sumerian Word Embeddings -- UC Berkeley (Near Eastern Studies)** |
-| 1:45-2:05    | Manoj Tiwari -- Recommendation systems -- Google  |
+| 1:45-2:05    | Manoj Tiwari -- Lessons learned from building real-life ML systems -- Google  |
 | 2:05-2:25    | Christopher Hench -- An Overview of the Alexa Architecture -- Amazon Alexa |
 | 2:25-2:45    | <span class="badge warning">Break</span> |
 | 2:45-5:20    |  Collaborative work session --- <a href="https://public.etherpad-mozilla.org/p/TextXD2018"> Click for Hack Proposals</a> |
@@ -84,7 +84,7 @@ image:
 |----
 | 11:10-11:30   |  Russell Lee-Goldman -- Google |
 | 11:30-11:50   | AJ Alvero -- Sociocultural Considerations of the College Admissions Essay -- Stanford (Education) |
-| 11:50-12:10   | Tanya Roosta & Emmanuel Vallod -- SumUp Analytics |
+| 11:50-12:10   | Tanya Roosta & Emmanuel Vallod -- Topic analysis and beyond, in real-time -- SumUp Analytics |
 | 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
 | **1:15-1:45**    | **Keynote Laurent El Ghaoui -- Text Analytics: A Guided Tour -- EECS & BAIR** |
 | 1:45-2:05    |  Milena Gianfrancesco & Suzanne Tamang -- Using text mining methods to detect a clinical infection -- UCSF & Stanford |
