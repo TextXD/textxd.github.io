@@ -43,7 +43,7 @@ image:
 | 9:00-9:10   | Welcome (Chris Kennedy & Maryam Vareth) |
 | 9:10-9:30   | Rochelle Terman -- The Outrage Machine: Human Rights Shaming from Media, Governments, and NGOs -- U. Chicago (Political Science) |
 |----
-| 9:30-9:50 | Adam Anderson --  UC Berkeley (Near Eastern Studies) |
+| 9:30-9:50 | Adam Anderson --  Learning Curve: Student Responses to the Digital Humanities Curriculum -- UC Berkeley (Near Eastern Studies) |
 |----
 | 9:50-10:10 | Alex Paxton -- The octo-source community: Exploring open-source software community health on GitHub -- U. Connecticut (Psychological Sciences) |
 | 10:10-10:30 | Deborah Sunter --  Text Analysis to Understand International Variations in Interpreting Sustainable Development -- Tufts (Mechanical Engineering) |
