@@ -35,7 +35,7 @@ TextXD workshops are open to anyone involved in diverse aspects of text analysis
 
 **Directions to the UC Berkeley campus and Doe Library**
 
-[Interactive campus map here](https://bids.berkeley.edu/about/directions-and-travel).</a>
+[Interactive campus map here](https://bids.berkeley.edu/about/directions-and-travel).
  
 **Public parking lots near the Berkeley campus allowing all-day parking**
 
