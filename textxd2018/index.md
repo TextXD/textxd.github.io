@@ -30,3 +30,24 @@ TextXD workshops are open to anyone involved in diverse aspects of text analysis
 
 ### Building Map
 <img src="{{ site.baseurl }}/images/doe-floorplan.jpg" style="width: 900px;"/>
+
+### Parking
+
+**Directions to the UC Berkeley campus and Doe Library**
+
+[Interactive campus map here](https://bids.berkeley.edu/about/directions-and-travel).</a>
+ 
+**Public parking lots near the Berkeley campus allowing all-day parking**
+
+Note that visitor parking around the Berkeley campus is very limited, and most street parking is only 2 hours.  We recommend taking public transportation if you can, otherwise please research the options below in advance and leave extra time.
+ 
+* Telegraph Channing Garage
+  * 2450 Durant Avenue, Berkeley (between Dana St and Telegraph Ave)
+  * 510-843-1788
+* Douglas Parking LLC - B7 Garage
+  * 2304 Bowditch Street, Berkeley (between Bancroft Way & Durant St)
+  * 510-548-2357 
+* Oxford Garage
+  * 2165 Kittredge St, Berkeley (between Shattuck Ave & Fulton St)
+  * Berkeley, CA 94704
+  * 510-843-1788
