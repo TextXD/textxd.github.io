@@ -89,8 +89,9 @@ image:
 | 1:25-1:45    | Tanya Roosta & Emmanuel Vallod -- Topic analysis and beyond, in real-time -- SumUp Analytics |
 | 1:45-2:05    |  Milena Gianfrancesco & Suzanne Tamang -- Using text mining methods to detect a clinical infection -- UCSF & Stanford |
 | 2:05-2:25    |  Jae Ho Sohn -- Natural Language Processing in Radiology: Why, What, and How? -- UCSF (Radiology) |
-| 2:25-2:45    | <span class="badge warning">Break</span> |
-| 2:45-5:20    |  Collaborative work session --- <a href="https://public.etherpad-mozilla.org/p/TextXD2018"> Click for Hack Proposals</a> |
+| 2:25-2:45    | TBA -- UCSF |
+| 2:45-3:05    | <span class="badge warning">Break</span> |
+| 3:05-5:20    |  Collaborative work session --- <a href="https://public.etherpad-mozilla.org/p/TextXD2018"> Click for Hack Proposals</a> |
 | 5:20- 5:30   | Team Demos & Closing Remarks  | 
 | 5:30- 7:00  |  <span class="badge danger">Social Event </span> Data science reception hosted by D-Lab |
 
