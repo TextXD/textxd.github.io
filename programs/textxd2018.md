@@ -27,7 +27,7 @@ image:
 |----
 | 3:15-4:15  |  Intro to Neural-Net Word Embeddings (Jaren Haber) |
 |----
-| 4:15-5:15 |  Intro to Supervised Machine Learning  (Chris Kennedy) |
+| 4:15-5:15 |  Intro to Text Classification  (Geoff Bacon) |
 | 5:15-5:30 | Discussion |
 
 
