@@ -22,10 +22,10 @@ image:
 |:------------|:--------|
 | 1:00-2:00   | Text as Data - An introduction (Caroline Le Pennec-Caldichoury) |
 |----
-| 2:00-3:00  | Intro to Web Scraping (Geoff Bacon) |
+| 2:00-3:00  | [Intro to Web Scraping](https://github.com/TextXD/introduction-to-web-scraping) (Geoff Bacon) |
 | 3:00-3:15  | <span class="badge warning">Break</span> |
 |----
-| 3:15-4:15  |  Intro to Neural-Net Word Embeddings (Jaren Haber) |
+| 3:15-4:15  |  [Intro to Neural-Net Word Embeddings](https://github.com/TextXD/charters4textxd2018) (Jaren Haber) |
 |----
 | 4:15-5:15 |  Intro to Text Classification  (Geoff Bacon) |
 | 5:15-5:30 | Discussion |
