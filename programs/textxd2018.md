@@ -82,7 +82,7 @@ image:
 |----
 | 10:50-11:10  | Abigail See -- Controlling text generation for a better chatbot -- Stanford (NLP) |
 |----
-| 11:10-11:30   |  Russell Lee-Goldman -- Google |
+| 11:10-11:30   |  Russell Lee-Goldman -- Linguistic research and application at Google -- Google |
 | 11:30-11:50   | AJ Alvero -- Sociocultural Considerations of the College Admissions Essay -- Stanford (Education) |
 | **11:50-12:20**   | **Keynote Laurent El Ghaoui -- Text Analytics: A Guided Tour -- EECS & BAIR** |
 | 12:20-1:25   | <span class="badge warning">Lunch</span> <br/> |
