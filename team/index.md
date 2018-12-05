@@ -32,7 +32,7 @@ Meet the TextXD 2018 Organizing Team – an interdisciplinary mix of thinkers, m
 </div><!-- /.tile -->
 
 <div class="tile">
-  <img class='center-block' src="{{ site.baseurl }}/images/CarlineLePennec.png" style="width: 150px;"/>
+  <img class='center-block' src="{{ site.baseurl }}/images/CarolineLePennec.png" style="width: 150px;"/>
   <h2 class="post-title center-block"><a href="http://dlab.berkeley.edu/people/caroline-le-pennec">Caroline Le Pennec</a></h2>
   <p class="post-excerpt">Economics, UC Berkeley</p>
 </div><!-- /.tile -->
