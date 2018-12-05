@@ -61,7 +61,7 @@ image:
 | 2:25-2:45    | <span class="badge warning">Break</span> |
 | 2:45-5:20    |  Collaborative work session --- <a href="https://public.etherpad-mozilla.org/p/TextXD2018"> Click for Hack Proposals</a> |
 | 5:20- 5:30   |  Discussion  | 
-| 5:30- 7:00  |  <span class="badge danger">Social Event </span> Happy hour at Tap Haus  |
+| 5:30- 7:00  |  <span class="badge danger">Social Event </span> Happy hour at Tap Haus (2518 Durant Ave - a block south of campus) |
 
 ## Day 3: Fri, Dec 7th (AM: Talks, PM: Create)
 
@@ -93,7 +93,7 @@ image:
 | 2:45-3:05    | <span class="badge warning">Break</span> |
 | 3:05-5:20    |  Collaborative work session --- <a href="https://public.etherpad-mozilla.org/p/TextXD2018"> Click for Hack Proposals</a> |
 | 5:20- 5:30   | Team Demos & Closing Remarks  | 
-| 5:30- 7:00  |  <span class="badge danger">Social Event </span> Data science reception hosted by D-Lab |
+| 5:30- 7:00  |  <span class="badge danger">Social Event </span> Data science reception hosted by D-Lab (Barrows Hall 356) |
 
 
 <a href="http://bit.ly/textxd-2018-rsvp" class="btn"> Registration </a>
