@@ -27,7 +27,7 @@ image:
 |----
 | 3:15-4:15  |  [Intro to Neural-Net Word Embeddings](https://github.com/TextXD/charters4textxd2018) (Jaren Haber) |
 |----
-| 4:15-5:15 |  Intro to Text Classification  (Geoff Bacon) |
+| 4:15-5:15 |  [Intro to Text Classification ](https://github.com/TextXD/introduction-to-text-classification) (Geoff Bacon) |
 | 5:15-5:30 | Discussion |
 
 
