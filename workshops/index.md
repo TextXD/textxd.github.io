@@ -25,5 +25,7 @@ image:
 <div class="tiles">
 {% for post in site.categories.workshops %}
 	{% include post-grid.html %}
-{% endfor %}
+{% endfor %}	
 </div><!-- /.tiles -->
+
+(TextXD 2016 and TextXD 2017 Spring still to be added.)
