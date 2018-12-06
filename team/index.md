@@ -16,7 +16,7 @@ Meet the TextXD 2018 Organizing Team – an interdisciplinary mix of thinkers, m
 <div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/ChrisKennedy.png" style="width: 150px;"/>
   <h2 class="post-title center-block"><a href="https://bids.berkeley.edu/people/chris-kennedy">Chris Kennedy</a></h2>
-  <p class="post-excerpt">Biostatistics, UC Berkeley</p>
+  <p class="post-excerpt">Biostatistics, BIDS, D-Lab<br />UC Berkeley</p>
 </div><!-- /.tile -->
 
 <div class="tile">
