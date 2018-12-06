@@ -52,9 +52,8 @@ image:
 | 10:50-11:10  | Caroline Le Pennec-Caldichoury -- Electoral competition and campaign messages in French legislative elections -- UC Berkeley (Economics) |
 |----
 | 11:10-11:30   | Geoff Bacon -- Probing sentence embeddings for structure-dependent tense -- UC Berkeley (Linguistics)|
-| 11:30-11:50   | Nick Adams -- Introducing Public Editor -- Goodly Labs |
-| 11:50-12:10   | Jaren Haber -- Inductive dictionary creation with word embedding models -- UC Berkeley (Sociology) |
-| 12:10-1:15   | <span class="badge warning">Lunch</span> <br/> |
+| 11:30-11:50  | Jaren Haber -- Inductive dictionary creation with word embedding models -- UC Berkeley (Sociology) |
+| 11:50-1:15   | <span class="badge warning">Lunch</span> <br/> |
 | **1:15-1:45**    | **Keynote Niek Veldhuis -- Sumerian Word Embeddings -- UC Berkeley (Near Eastern Studies)** |
 | 1:45-2:05    | Manoj Tiwari -- Lessons learned from building real-life ML systems -- Google  |
 | 2:05-2:25    | Christopher Hench -- An Overview of the Alexa Architecture -- Amazon Alexa |
