@@ -28,4 +28,4 @@ image:
 {% endfor %}	
 </div><!-- /.tiles -->
 
-(TextXD 2016 and TextXD 2017 Spring still to be added.)
+<p>(TextXD 2016 and TextXD 2017 Spring still to be added.)</p>
