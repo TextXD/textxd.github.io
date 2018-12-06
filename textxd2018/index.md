@@ -14,7 +14,7 @@ share: true
 
 ### Agenda
 
-### <a href="{{ site.url }}/programs/textxd2018" class=".btn-inverse">The TextXD 2018 Program</a>
+<a href="{{ site.url }}/programs/textxd2018" class=".btn-inverse" style="text-size: 200%">The TextXD 2018 Program</a>
 
 ### When, Where, Who?
 
