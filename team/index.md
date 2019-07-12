@@ -15,7 +15,7 @@ Meet the TextXD Organizing Team – an interdisciplinary mix of thinkers, makers
 
 <div class="tile">
   <img class='center-block' src="{{ site.baseurl }}/images/HeatherHaveman.png" style="width: 150px;"/>
-  <h2 class="post-title center-block"><a href="http://www.heatherhaveman.net"> Heather Haveman, PhD</a></h2>
+  <h2 class="post-title center-block"><a href="http://www.heatherhaveman.net"> Heather Haveman</a></h2>
   <p class="post-excerpt"> Sociology & Haas School of Business, UC Berkeley</p>
 </div><!-- /.tile -->
 
