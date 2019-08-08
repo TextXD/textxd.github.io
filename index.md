@@ -5,5 +5,5 @@ image:
   feature: Text-Analysis.jpg
 ---
 
- - Save the date: TextXD 2019 will be Dec. 3 - 5! [Complete our feedback survey here](https://forms.gle/NonCXixLQXoNHJGS6).
- - Our call for submissions will be released on July 25. 
+  - [Call for Submissions: submit an abstract](https://docs.google.com/forms/d/e/1FAIpQLSdtf7W9TqIu-_WIfDvCnYHlrRKVQO899lH6xw4wbBb_Jof-hQ/viewform) by Sept. 20
+  - [Complete our TextXD 2019 feedback survey here](https://forms.gle/NonCXixLQXoNHJGS6).
